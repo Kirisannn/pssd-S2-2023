@@ -20,9 +20,9 @@ WEEK 3
 15. StrangeComputer
 
 WEEK 4
-16. CircularLine
-17. BlackAndRed
-18. DownloadingFiles
+16. MagicSpell
+17. RugSizes
+18. ImportantTasks
 
 WEEK 5
 19. Barbecue
@@ -31,9 +31,23 @@ WEEK 5
 22. RunLengthEncoding
 23. SimpleDuplicateRemover
 
-wEEK 6
+WEEK 6
 24. AlternateColors 
 25. GoodHours
 26. BlackAndWhiteSolitaire
 27. ChristmasTree
 28. MonsterValley2
+
+WEEK 7
+29. MinimalDifference	
+30. RGBStreet
+31. QuickSums
+32. SimpleCompressor
+33. FewestFactors
+
+WEEK 8
+34. TimeTravellingCellar
+35. FriendlySequences
+36. PaternityTest
+37.
+38.
