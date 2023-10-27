@@ -49,5 +49,17 @@ WEEK 8
 34. TimeTravellingCellar
 35. FriendlySequences
 36. PaternityTest
-37.
-38.
+37. CorporationSalary   (Bonus Question)
+
+WEEK 9
+38. NumberSplit
+39. Thimbles
+40. NumberSplit
+41. CubeStickers
+
+WEEK 10
+42. DifferentStrings
+43. ColorfulRabbits
+44. BigBurger
+45. BridgeSort
+46. VeryInterestingMovie
